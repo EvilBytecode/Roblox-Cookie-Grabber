@@ -19,7 +19,6 @@ A new cookie grabber, bypasses no more cookies. Firefox, chrome, edge, vivaldi o
 
 # Account Information
 
-## General Details
 - **Username:**
 - **Is Premium:**
 - **ID:**
